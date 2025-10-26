@@ -42,14 +42,14 @@ Certifique-se de ter o Python 3.9+ instalado.
 🧠 Instruções gerais de uso
 1. Defina as propriedades da estrutura:
 2. Número de materiais, nós, elementos, apoios e nós com carga.
-  - Insira coordenadas, conectividades (incidência), materiais, cargas e apoios nas janelas correspondentes.
+  - Insira coordenadas, incidência, materiais, cargas e apoios nas janelas correspondentes.
 3. Escolha o método de integração temporal e a função temporal do carregamento.
 4. Defina o intervalo de tempo (Δt) e o tempo total de simulação.
 5. Execute a análise clicando em “Executar”.
   - Serão exibidas as janelas de resultados, gráficos e matrizes.
 
 ⚠️ Cuidados necessários
-- O usuário tem liberdade para numerar os nós a partir de 0 ou de 1 — a ferramenta ajusta automaticamente os índices.
+- O usuário tem liberdade para numerar os nós a partir de 0 ou de 1 (a ferramenta ajusta automaticamente os índices).
 - O separador decimal deve ser o ponto (.) e não a vírgula.
 - As propriedades de entrada devem estar em unidades coerentes do Sistema Internacional (SI):
   - Área (A): m²
@@ -63,6 +63,6 @@ Este projeto está sob a licença MIT.
 Você é livre para utilizar, modificar e distribuir o código, desde que mantenha os créditos ao autor original.
 
 👩‍💻 Autoria
-Júlia Tschá Longo
-Trabalho de Conclusão de Curso — Bacharelado em Engenharia Civil
+Júlia Tschá Longo,
+Trabalho de Conclusão de Curso — Bacharelado em Engenharia Civil,
 Universidade Federal do Paraná
