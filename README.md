@@ -30,14 +30,14 @@ Certifique-se de ter o Python 3.9+ instalado.
 
 ⚙️ Estrutura do repositório
 📦 TrelicaDinamica
-├── interface.py              # Interface gráfica principal (entrada de dados e controle)
-├── janela_resultados.py      # Visualização e exportação dos resultados
-├── gerar_matrizes.py         # Montagem das matrizes de rigidez, massa e amortecimento
-├── newmark.py                # Implementação do método de Newmark
-├── bathe.py                  # Implementação do método de Bathe
-├── diferencascentrais.py     # Implementação do método das Diferenças Centrais
-├── TrelicaDinamica.exe       # Versão executável da ferramenta
-└── README.md                 # Este arquivo
+- interface.py              # Interface gráfica principal (entrada de dados e controle)
+- janela_resultados.py      # Visualização e exportação dos resultados
+- gerar_matrizes.py         # Montagem das matrizes de rigidez, massa e amortecimento
+- newmark.py                # Implementação do método de Newmark
+- bathe.py                  # Implementação do método de Bathe
+- diferencascentrais.py     # Implementação do método das Diferenças Centrais
+- TrelicaDinamica.exe       # Versão executável da ferramenta
+- README.md                 # Este arquivo
 
 🧠 Instruções gerais de uso
 1. Defina as propriedades da estrutura:
